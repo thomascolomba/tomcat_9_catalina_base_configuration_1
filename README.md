@@ -10,3 +10,4 @@ Se copian subcarpetas de la carpeta de instalación de apache tomcat 9 :
 - work/ vacía
 
 Lo tengo en C:\apache\tomcat\catalina_bases\tomcat_9_catalina_base_configuration_1.
+Cloneado por git bash con con : git clone https://github.com/thomascolomba/tomcat_9_catalina_base_configuration_1.git
